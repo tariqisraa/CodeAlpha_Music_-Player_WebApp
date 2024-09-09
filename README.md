@@ -1,3 +1,2 @@
 # CodeAlpha_Music_Player_WebApp
-A music player app typically includes core features like playlist management, allowing users to create, edit, and organize playlists. It supports playback controls such as play, pause, skip, and rewind, along with volume control. Users can search and filter songs by artist, album, or genre. 
-
+A music player app typically includes core features like playlist management, allowing users to create, edit, and organize playlists. It supports playback controls such as play, pause, skip, and rewind, along with volume control. Users can search and filter songs by artist, album, or genre. Advanced apps offer song categorization by mood or activity, and include features like offline playback, streaming integration (e.g., Spotify), and equalizer settings for sound customization. Additional features often include album artwork display, lyrics integration, and cross-device sync.
